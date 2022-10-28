@@ -239,8 +239,8 @@
                 <td>{{ non }}</td>
                 <td>non</td>
                 <td>{{ non }}</td>
-                <td>non</td>
-                <td>non</td>
+                <td>{{ non }}</td>
+                <td>{{ non }}</td>
               </tr>
             </tbody>
             <tfoot>
